@@ -11,10 +11,10 @@
 ## State Diagram
 * A general model of a Moore machine is shown below. Its output is generated from the state register block.
 * The next state is determined using the current input and the current state. 
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/state%20diagram.png)
 
 * Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs.
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
 
 <!-- Schmatic -->
 ## Schmatic
@@ -38,7 +38,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Parity_Checker_Moore_Machine](https://github.com/trista-csee/Parity_Checker_Moore_Machine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
