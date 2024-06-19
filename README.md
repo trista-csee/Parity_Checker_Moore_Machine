@@ -4,21 +4,25 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT Name -->
+<!-- PROJECT Name --> 
 <h1 align="center">Design a parity checker Moore machine</h1>
 
 <!--  State Diagram -->
 ## State Diagram
+* In Moore machine, the output depends only on the current state.
 * A general model of a Moore machine is shown below. Its output is generated from the state register block.
-* The next state is determined using the current input and the current state. 
-![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/state%20diagram.png)
+* The next state is determined using the current input and the current state.
+* The state register is also modeled using D flip-flops.
+* Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs. 
 
-* Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs.
-![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
+![image]()
+
+<!--  Associate Model -->
+## Associate Model
+![image]()
 
 <!-- Schmatic -->
 ## Schmatic
-* The state register is also modeled using D flip-flops.
 ![image]()
 
 <!-- Simulation -->
