@@ -23,11 +23,11 @@
 
 <!-- Schmatic -->
 ## Schmatic
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/Schmatic.png)
 
 <!-- Simulation -->
 ## Simulation
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/Simulation.png)
 
 <!-- LICENSE -->
 ## License
