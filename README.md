@@ -51,5 +51,5 @@ Project Link: [https://github.com/trista-csee/Parity_Checker_Moore_Machine](http
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/%E8%8F%AF%E6%A5%A8-%E5%90%B3-363252241/
+[linkedin-url]: www.linkedin.com/in/hua-chen-wu-363252241
 [product-screenshot]: ./images/projects/portfolio.jpg
