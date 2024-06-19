@@ -15,11 +15,11 @@
 * The state register is also modeled using D flip-flops.
 * Normally Moore machines are described using three blocks, one of which must be a sequential and the other two can be modeled using always blocks or a combination of always and dataflow modeling constructs. 
 
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/three%20blocks%20Moore%20machine.png)
 
 <!--  Associate Model -->
 ## Associate Model
-![image]()
+![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/state%20diagram.png)
 
 <!-- Schmatic -->
 ## Schmatic
