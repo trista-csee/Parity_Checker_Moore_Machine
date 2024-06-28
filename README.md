@@ -21,8 +21,8 @@
 ## Associate Model
 ![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/state%20diagram.png)
 
-<!-- Schmatic -->
-## Schmatic
+<!-- Schematic -->
+## Schematic
 ![image](https://github.com/trista-csee/Parity_Checker_Moore_Machine/blob/main/Schmatic.png)
 
 <!-- Simulation -->
